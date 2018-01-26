@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Aqui deberia mostrarse los calendarios!
                 </div>
             </div>
         </div>
