@@ -7,5 +7,3 @@
 
 # Run:
 - php artisan serve
-
-
