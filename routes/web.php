@@ -20,4 +20,4 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 // https://hdtuto.com/article/laravel-full-calendar-tutorial-example-from-scratch
-Route::get('events', 'EventController@index');
+Route::get('/events', 'EventController@index')->name('mycalendar');

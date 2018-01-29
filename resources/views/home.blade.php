@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts/app')
 
 @section('content')
 <div class="container">
@@ -15,6 +15,8 @@
                     @endif
 
                     Aqui deberia mostrarse los calendarios!
+
+                    {{--  @extends('mycalendar')  --}}
                 </div>
             </div>
         </div>

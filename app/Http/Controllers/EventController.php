@@ -40,7 +40,7 @@ class EventController extends Controller
 
       $calendar = Calendar::addEvents($events); 
 
-      return view('mycalender', compact('calendar'));
+      return view('mycalendar', compact('calendar'));
 
     }
 

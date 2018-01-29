@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html lang="es">
+<html lang="en">
 
 <head>
 
@@ -24,7 +24,7 @@
 
         <div class="panel-heading">
 
-            MY Calender    
+            Mi calendario
 
         </div>
 
