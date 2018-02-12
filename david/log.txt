@@ -1,0 +1,2 @@
+Crear un nuevo controlador:
+    php artisan make::controller nombree
